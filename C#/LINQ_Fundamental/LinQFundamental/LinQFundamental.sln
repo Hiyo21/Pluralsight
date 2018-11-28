@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayWithoutLINQ", "LinQFundamental\SortArrayWithoutLINQ.csproj", "{73A6FE26-A29F-4C54-BD11-FD2D2F510478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayWithLINQ", "SortArrayWithLINQ\SortArrayWithLINQ.csproj", "{37CC2226-68B7-4DE4-B62E-EAB8EE96CF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A6FE26-A29F-4C54-BD11-FD2D2F510478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A6FE26-A29F-4C54-BD11-FD2D2F510478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A6FE26-A29F-4C54-BD11-FD2D2F510478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A6FE26-A29F-4C54-BD11-FD2D2F510478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CC2226-68B7-4DE4-B62E-EAB8EE96CF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CC2226-68B7-4DE4-B62E-EAB8EE96CF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CC2226-68B7-4DE4-B62E-EAB8EE96CF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CC2226-68B7-4DE4-B62E-EAB8EE96CF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE0A5B2-EEE2-4AF9-8EB1-425E49451B0C}
+	EndGlobalSection
+EndGlobal
